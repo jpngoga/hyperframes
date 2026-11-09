@@ -1,4 +1,4 @@
-# Issue and contribution triage
+# Issue and contribution triage.
 
 Use this guide to classify issues, choose contribution work, and run maintainer or agent triage. [CONTRIBUTING.md](CONTRIBUTING.md) covers setup and validation.
 
