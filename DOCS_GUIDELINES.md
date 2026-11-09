@@ -1,4 +1,4 @@
-# Documentation Guidelines
+# Documentation Guidelines.
 
 Standards for writing and maintaining Hyperframes documentation. Based on patterns from Remotion, Stripe, Tailwind CSS, and Astro.
 
