@@ -1,6 +1,6 @@
 # Hyperframes
 
-Open-source video rendering framework: write HTML, render video.
+Open-source video rendering framework: write HTML, render video
 
 ## Skills
 
