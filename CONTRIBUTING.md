@@ -1,4 +1,4 @@
-# Contributing to Hyperframes
+# Contributing to Hyperframes.
 
 Thanks for your interest in contributing to Hyperframes! This guide will help you get started.
 
