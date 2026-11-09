@@ -1,4 +1,4 @@
-# HyperFrames Design System & Style Guide
+# HyperFrames Design System & Style Guide.
 
 Use this guide to configure Mintlify docs or any other platform to match the HyperFrames brand.
 
