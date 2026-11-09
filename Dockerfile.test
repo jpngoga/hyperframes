@@ -1,4 +1,4 @@
-# HyperFrames Producer - Regression Test Image
+# HyperFrames Producer - Regression Test Image.
 #
 # Matches the production rendering environment (same Chromium, fonts, FFmpeg)
 # but includes the full source + devDependencies for running the test harness.
