@@ -14,7 +14,7 @@
   <a href="https://discord.gg/fzbdWyjphr"><img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-<p align="center"><b>Write HTML. Render video. Built for agents.</b></p>
+<p align="center"><b>Write HTML. Render video. Built for agents</b></p>
 
 <p align="center">
   <a href="https://hyperframes.studio/studio?utm_source=github&utm_medium=readme">Studio</a> |
