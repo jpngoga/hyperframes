@@ -1,6 +1,6 @@
 # Adopters
 
-This page lists organizations using HyperFrames in production or actively evaluating it. If your team is shipping with HyperFrames — whether you're rendering hundreds of videos a day, building agent-driven composition tooling, or experimenting with HTML-as-video for the first time — we'd love to hear about it.
+This page lists organizations using HyperFrames in production or actively evaluating it, If your team is shipping with HyperFrames — whether you're rendering hundreds of videos a day, building agent-driven composition tooling, or experimenting with HTML-as-video for the first time — we'd love to hear about it.
 
 Adding your organization helps the community understand how HyperFrames is being used in the wild and makes it easier for new users to find peers solving similar problems.
 
